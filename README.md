@@ -1,14 +1,14 @@
 # ¡Hola! Soy Noelia Calligaro 👋
 
-📊 **Analista de Datos** | 🧠 Formación en Data Analytics | 📚 Técnica en Bibliotecología  
-💻 Python | SQL | Power BI | Google Sheets
+📊 **Analista de Datos** | 💻 Técnica en Desarrollo de Software | 📚 Técnica en Bibliotecología  
+🐍 Python | SQL | Power BI | Google Sheets
 
 ---
 
 ### Sobre mí
 
-Soy una profesional en transición hacia el mundo del análisis de datos, con una sólida base en organización de información y docencia.  
-Como Técnica Superior en Bibliotecología y Profesora de Computación, desarrollé habilidades de análisis, comunicación y gestión de datos que hoy potencio con herramientas tecnológicas.
+Soy una profesional en transición hacia el mundo del análisis de datos, con una sólida base en organización de información, pensamiento lógico y docencia.  
+Como Técnica en Desarrollo de Software, Técnica en Bibliotecología y Profesora de Computación, desarrollé habilidades de análisis, comunicación y gestión de datos que hoy potencio con herramientas tecnológicas.
 
 Me formé en el bootcamp intensivo de **Data Analytics de Soy Henry**, donde profundicé en:
 
@@ -37,6 +37,7 @@ Actualmente estoy buscando mi primera experiencia laboral como **Data Analyst**,
 ### 📚 Formación
 
 - **Bootcamp Data Analytics** – Soy Henry  
+- **Técnica en Desarrollo de Software**  
 - **Técnica Superior en Bibliotecología**  
 - **Profesora de Computación** – Escuela San José y Jardín N°1253
 
@@ -52,13 +53,12 @@ Actualmente estoy buscando mi primera experiencia laboral como **Data Analyst**,
 
 ### 📫 ¡Conectemos!
 
-- [LinkedIn](https://www.linkedin.com/in/tuusuario)  
-- 📧 noelia.tuemail@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/noelia-calligaro-b74a83251/)  
+- 📧 noeliacallig@gmail.com  
 - 📍 Santa Fe, Argentina
 
 ---
 
 ### ✨ Frase que me inspira
 
-> *"Cada decisión que tomás hoy es una inversión en la vida que querés construir."*
-
+> *“Somos los arquitectos de nuestra propia realidad. Cada elección es una oportunidad para crear la vida que imaginamos.”*
