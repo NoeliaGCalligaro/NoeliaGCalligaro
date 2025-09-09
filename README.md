@@ -45,7 +45,7 @@ Actualmente estoy buscando mi primera experiencia laboral como **Data Analyst**,
 
 ### 👩‍🏫 Experiencia destacada
 
-- **Asistente de enseñanza (TA)** – Soy Henry  
+ 
 - **Profesora de Computación** – Escuela San José y Jardín N°1253 (2023 - presente)  
 - **Bibliotecaria** – Escuela Niño Jesús
 
